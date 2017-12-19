@@ -18,6 +18,6 @@
 1.asarray:将Python序列转换为ndarray,例如:asarray(序列);<br/>
 2.frombuffer:将缓冲区解释为一维数组,例如:frombuffer(字符串, dtype = 'S1');<br/>
 3.fromiter:从任何可迭代对象构建一个ndarray对象，返回一个新的一维数组;<br/>
-4.arange:<br/>
+4.arange:创建一个序列0到n的一维矩阵,例如:arange(n);<br/>
 5.linspace:<br/>
 6.logspace:<br/>
