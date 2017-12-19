@@ -53,3 +53,11 @@ B = np.frombuffer(tmp, dtype = 'S1')
 print B
 
 #fromiter
+tmpList = range(6)
+it = iter(tmpList)
+C = np.fromiter(it, dtype = int)
+print C
+
+
+
+
