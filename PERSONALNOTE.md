@@ -21,3 +21,8 @@
 4.arange:创建一个序列0到n的一维矩阵,例如:arange(n);<br/>
 5.linspace:<br/>
 6.logspace:<br/>
+
+# Matplotlib Note
+1.Matplotlib 是 Python 的绘图库;
+2.pyplot()是 matplotlib 库中最重要的函数，用于绘制 2D 数据;
+3.

@@ -1,8 +1,8 @@
 import numpy as np
 from matplotlib import pyplot as plt
 
-x = np.arange(1,11)
+x = np.arange(1,20)
 y = 2 * x + 5
 
-plt.plot(x,y)
+plt.plot(x,y,'ob')
 plt.show()
