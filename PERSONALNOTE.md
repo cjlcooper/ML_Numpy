@@ -25,4 +25,9 @@
 # Matplotlib Note
 1.Matplotlib 是 Python 的绘图库;
 2.pyplot()是 matplotlib 库中最重要的函数，用于绘制 2D 数据;
-3.
+
+# About Python
+
+1.类的方法与普通的函数只有一个特别的区别——它们必须有一个额外的第一个参数名称, 按照惯例它的名称是 self:<br/>
+例如：
+def function1(self):
