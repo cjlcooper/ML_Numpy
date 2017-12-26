@@ -23,12 +23,12 @@
 6.logspace:<br/>
 
 # Matplotlib Note
-1.Matplotlib 是 Python 的绘图库;
-2.pyplot()是 matplotlib 库中最重要的函数，用于绘制 2D 数据;
+1.Matplotlib 是 Python 的绘图库;<br/>
+2.pyplot()是 matplotlib 库中最重要的函数，用于绘制 2D 数据;<br/>
 
 # About Python
 
 1.类的方法与普通的函数只有一个特别的区别——它们必须有一个额外的第一个参数名称, 按照惯例它的名称是 self:<br/>
-例如：
-def function1(self):
-2.sigmoid函数：既S型的函数,例如对数函数
+例如：<br/>
+def function1(self):<br/>
+2.sigmoid函数：既S型的函数,例如对数函数;<br/>
