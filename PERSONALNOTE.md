@@ -32,3 +32,4 @@
 例如：
 def function1(self):
 2.sigmoid函数：既S型的函数,例如对数函数
+3.shape[0]:获取第一维的长度,以此类推到n维长度;
